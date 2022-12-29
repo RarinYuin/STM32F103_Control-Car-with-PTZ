@@ -24,7 +24,7 @@ int Encoder_A_EXTI;
 uint16 CPWM[MOTOR_NUM]= {1500,1500,1500,1500,1500,1500,1500,1500,1500};
 char redata[500] = {0};    // 定义接收数据变量数组
 uint16 adc_value = 0;
-int Motor_Pwm = 2500;
+int Motor_Pwm = 3000;
 char menu = 1;
 u8 delay_50,delay_flag; 
 void scan_ps2(void);
