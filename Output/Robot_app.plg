@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\产品资料\4.双电机编码器测速小车资料\4.智能车项目控制源码\4.综合代码PS2无线手柄蓝牙以及WIFI控制（开环带测速）\Robot.uvproj
+Project File Date:  05/28/2018
+
+<h2>Output:</h2>
+Build target 'Robot'
+linking...
+Program Size: Code=21934 RO-data=3202 RW-data=252 ZI-data=3172  
+FromELF: creating hex file...
+".\Output\Robot_app.axf" - 0 Error(s), 0 Warning(s).

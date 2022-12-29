@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\lenovo\Desktop\舵机电机控制板\编码器测速手机APP蓝牙 WIFI远程 PS2手柄控制综合代码 - 副本\Robot.uvproj
+Project File Date:  11/20/2017
+
+<h2>Output:</h2>
+Build target 'Robot'
+compiling main.c...
+.\HARDWARE\KEY\key.h(18): warning:  #1295-D: Deprecated declaration KEY_Scan - give arg types
+USER\main.c(144): warning:  #186-D: pointless comparison of unsigned integer with zero
+USER\main.c(158): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=17760 RO-data=3268 RW-data=184 ZI-data=3168  
+FromELF: creating hex file...
+".\Output\Robot_app.axf" - 0 Error(s), 3 Warning(s).
